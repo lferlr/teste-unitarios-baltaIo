@@ -53,7 +53,7 @@ namespace Store.Domain.Entities
 
     public void Cancel()
     {
-      this.Status = EOrderStatus.Cancelled;
+      this.Status = EOrderStatus.Canceled;
     }
   }
 }
