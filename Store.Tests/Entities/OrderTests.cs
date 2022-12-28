@@ -128,6 +128,6 @@ public class OrderTests
     var order = new Order(null, 10, _discount);
     order.AddItem(_product, 5);
 
-    Assert.AreEqual(order.Invalid, true);
+    Assert.AreEqual(order.Valid, false);
   }
 }
