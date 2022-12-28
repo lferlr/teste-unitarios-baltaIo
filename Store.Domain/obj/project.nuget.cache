@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "NwfQQ8WBqHcDWQQ548i8bxb3RvXff2XkKDL/UHu4OsYqiXE153mvzHdIOm8NKRzdRxvjxE+L88gA3CFY1qr2TQ==",
+  "dgSpecHash": "fEqwX14X/jZDN7+71fCNLo+Vtl0N/UU7sI8ar6mye5IGHgdawENpdTPWY4puLFMAsHG/z1zmi17TOsA9yYCJZA==",
   "success": true,
   "projectFilePath": "/Users/lucasrodrigues/dev/Balta/TesteUnitarios/Store/Store.Domain/Store.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/lucasrodrigues/.nuget/packages/flunt/1.0.3/flunt.1.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
